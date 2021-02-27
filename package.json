@@ -14,7 +14,7 @@
     "express",
     "es6"
   ],
-  "author": "Tai Lu",
+  "author": "Akash Batabyal",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.5.5",

@@ -6,7 +6,7 @@ cd assignment8_edureka_simple-chat
 npm install
 npm start
 
-# localhost:9900
+# localhost:3300
 
 open browser1 at localhost:3300, enter user1, click [OK]
 open browser2 at localhost:3300, enter user2, click [OK]
